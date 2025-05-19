@@ -1,14 +1,14 @@
 # Tweet Sentiment Analysis 💬
 
-This project is a **Sentiment Analysis** system that classifies tweets as **Positive 😊** or **Negative 😠** using machine learning techniques. The model is built with `Logistic Regression` and trained on a labeled dataset of tweets.
+This project is a **Sentiment Analysis** system that classifies tweets as **Positive 😊** or **Negative 😠** using machine learning techniques. The model is built with Logistic Regression and trained on a labeled dataset of tweets.
 
 
 ## 📁 Dataset
 
 - CSV file: `tweet_data.csv`
 - Columns used:
-  - `text`: The content of the tweet
-  - `target`: Sentiment label (`1` = Positive, `0` = Negative)
+  - text: The content of the tweet
+  - target: Sentiment label (1 = Positive, 0 = Negative)
 
 ## 🛠️ Features & Libraries
 
